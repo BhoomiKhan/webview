@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BETARIDE</string>
+    <string-array name="login_array">
+        <item> Customer</item>
+        <item> Driver</item>
+    </string-array>
+</resources>

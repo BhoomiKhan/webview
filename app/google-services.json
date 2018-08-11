@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "701969807658",
+    "firebase_url": "https://local-projects-faa39.firebaseio.com",
+    "project_id": "local-projects-faa39",
+    "storage_bucket": "local-projects-faa39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701969807658:android:b1e14cfd71a41705",
+        "android_client_info": {
+          "package_name": "com.printing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701969807658-6lt4mk02u7c8rhokj9i537t4t354nf8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA599z8Tw7Ik2sr4nLVYHvR6W-4mC78iIQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701969807658:android:3c9c884cfa00bd6c",
+        "android_client_info": {
+          "package_name": "com.printingadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701969807658-6lt4mk02u7c8rhokj9i537t4t354nf8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA599z8Tw7Ik2sr4nLVYHvR6W-4mC78iIQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701969807658:android:7a1cbe16a361a5b9",
+        "android_client_info": {
+          "package_name": "max.pawras.bitbucket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701969807658-vfdnc0p4jme5triac2h1fm68guvhv59p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "max.pawras.bitbucket",
+            "certificate_hash": "443af0a9ed2885c082d5db8b8cd04974fa57b814"
+          }
+        },
+        {
+          "client_id": "701969807658-6lt4mk02u7c8rhokj9i537t4t354nf8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA599z8Tw7Ik2sr4nLVYHvR6W-4mC78iIQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701969807658-9n0pk1hvf6pqr0kcei1dgpgu0j3ml8pt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.YourIdentifier.QuickChat"
+              }
+            },
+            {
+              "client_id": "701969807658-6lt4mk02u7c8rhokj9i537t4t354nf8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
